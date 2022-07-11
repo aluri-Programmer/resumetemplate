@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
+  "name": "Sai Dheeraj Aluri",
   "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
+  "linkedinId":"https://www.linkedin.com/in/dheeraj-aluri-9865261bb/",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "I like developing in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -22,23 +22,21 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-  "address":"India",
-  "website":"https://www.codeclassifiers.com",
+  "aboutme":"I have finished my Bachelors and Masters in Computer Science and have been working in industry for past five years.",
+  "address":"United States",
+  "website":"",
   "education":[
     {
-      "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"Oklahoma City University",
+      "specialization":"Master's in Computer science ",
+      "MonthOfPassing":"May",
+      "YearOfPassing":"2017"
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"sree vidyanikethan engineering college",
+      "specialization":"Bachelor's",
+      "MonthOfPassing":"May",
+      "YearOfPassing":"2015"
     }
   ],
   "work":[
